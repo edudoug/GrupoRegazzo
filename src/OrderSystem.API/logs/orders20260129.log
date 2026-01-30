@@ -1,0 +1,728 @@
+2026-01-29 16:29:53.625 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 16:29:53.695 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 16:29:53.698 -03:00 [INF] Hosting environment: Development
+2026-01-29 16:29:53.699 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 16:32:37.062 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/ - null null
+2026-01-29 16:32:39.890 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/ - 404 0 null 2909.4098ms
+2026-01-29 16:32:39.924 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/, Response status code: 404
+2026-01-29 16:33:17.494 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/ - null null
+2026-01-29 16:33:17.504 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/ - 404 0 null 10.5545ms
+2026-01-29 16:33:17.510 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/, Response status code: 404
+2026-01-29 16:35:28.568 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 16:35:28.573 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 404 0 null 4.7343ms
+2026-01-29 16:35:28.577 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/scalar/v1, Response status code: 404
+2026-01-29 16:35:40.093 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/swagger/v1 - null null
+2026-01-29 16:35:40.098 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/swagger/v1 - 404 0 null 4.8444ms
+2026-01-29 16:35:40.144 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/swagger/v1, Response status code: 404
+2026-01-29 16:36:38.084 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 16:36:38.092 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 404 0 null 7.8786ms
+2026-01-29 16:36:38.107 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/api/orders, Response status code: 404
+2026-01-29 16:36:57.916 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 16:36:57.922 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 404 0 null 5.7607ms
+2026-01-29 16:36:57.931 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/api/orders, Response status code: 404
+2026-01-29 16:39:01.919 -03:00 [INF] Application is shutting down...
+2026-01-29 16:39:22.340 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 16:39:22.393 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 16:39:22.398 -03:00 [INF] Hosting environment: Development
+2026-01-29 16:39:22.400 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 16:39:29.415 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/ - null null
+2026-01-29 16:39:29.503 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/ - 404 0 null 89.6653ms
+2026-01-29 16:39:29.561 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/, Response status code: 404
+2026-01-29 16:39:45.781 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/ - null null
+2026-01-29 16:39:45.793 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/ - 404 0 null 12.5776ms
+2026-01-29 16:39:45.840 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/, Response status code: 404
+2026-01-29 16:39:56.991 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 16:39:57.050 -03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2026-01-29 16:39:57.055 -03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2026-01-29 16:39:57.071 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 405 0 null 79.8747ms
+2026-01-29 16:40:09.160 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 16:40:09.171 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 404 0 null 11.3078ms
+2026-01-29 16:40:09.176 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/scalar/v1, Response status code: 404
+2026-01-29 16:40:15.152 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/swagger/v1 - null null
+2026-01-29 16:40:15.172 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/swagger/v1 - 404 0 null 19.4948ms
+2026-01-29 16:40:15.178 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/swagger/v1, Response status code: 404
+2026-01-29 16:41:18.341 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/swagger/index.html - null null
+2026-01-29 16:41:18.348 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/swagger/index.html - 404 0 null 7.4404ms
+2026-01-29 16:41:18.355 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/swagger/index.html, Response status code: 404
+2026-01-29 16:42:16.877 -03:00 [INF] Application is shutting down...
+2026-01-29 16:42:24.407 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 16:42:24.464 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 16:42:24.466 -03:00 [INF] Hosting environment: Development
+2026-01-29 16:42:24.468 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 16:42:29.550 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/swagger/index.html - null null
+2026-01-29 16:42:29.595 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 16:42:29.604 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/swagger/index.html - 404 0 null 56.1418ms
+2026-01-29 16:42:29.657 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/swagger/index.html, Response status code: 404
+2026-01-29 16:42:34.914 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/ - null null
+2026-01-29 16:42:34.922 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/ - 404 0 null 8.6443ms
+2026-01-29 16:42:34.932 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/, Response status code: 404
+2026-01-29 16:42:45.774 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 16:42:45.791 -03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2026-01-29 16:42:45.794 -03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2026-01-29 16:42:45.800 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 405 0 null 26.2769ms
+2026-01-29 16:42:55.030 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 16:42:55.037 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 404 0 null 6.241ms
+2026-01-29 16:42:55.050 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/scalar/v1, Response status code: 404
+2026-01-29 16:43:49.545 -03:00 [INF] Application is shutting down...
+2026-01-29 16:45:02.368 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 16:45:02.487 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 16:45:02.490 -03:00 [INF] Hosting environment: Development
+2026-01-29 16:45:02.492 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 16:45:09.470 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 16:45:09.521 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 16:45:09.527 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:45:09.610 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 16:45:09.626 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:45:09.630 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 169.7333ms
+2026-01-29 16:45:09.703 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/scalar.js - null null
+2026-01-29 16:45:09.709 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:45:09.713 -03:00 [INF] Sending file with download name ''.
+2026-01-29 16:45:09.775 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:45:09.789 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/scalar.js - 200 2689267 text/javascript 86.3679ms
+2026-01-29 16:45:10.158 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 16:45:10.171 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 16:45:10.542 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 16:45:10.544 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 385.9929ms
+2026-01-29 16:45:11.495 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/favicon.ico - null null
+2026-01-29 16:45:11.514 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/favicon.ico - 404 0 null 18.9954ms
+2026-01-29 16:45:11.528 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5126/favicon.ico, Response status code: 404
+2026-01-29 16:46:08.417 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 174
+2026-01-29 16:46:08.424 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 16:46:08.582 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(Order) on controller OrderController (OrderSystem.API).
+2026-01-29 16:46:08.670 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 79.9958ms
+2026-01-29 16:46:08.673 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 16:46:08.686 -03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Each parameter in the deserialization constructor on type 'Order' must bind to an object property or field on deserialization. Each parameter name and type must match with a property or field on the object. Fields are only considered when 'JsonSerializerOptions.IncludeFields' is enabled. The name match can be case-insensitive.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_ConstructorParameterIncompleteBinding(Type parentType)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize[TReadBufferState,TStream](TReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync[TReadBufferState,TStream](TStream utf8Json, TReadBufferState bufferState, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-01-29 16:46:08.812 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 500 null text/plain; charset=utf-8 394.6327ms
+2026-01-29 16:46:47.854 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 174
+2026-01-29 16:46:47.860 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 16:46:47.862 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(Order) on controller OrderController (OrderSystem.API).
+2026-01-29 16:46:47.868 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 1.3614ms
+2026-01-29 16:46:47.872 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 16:46:47.873 -03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Each parameter in the deserialization constructor on type 'Order' must bind to an object property or field on deserialization. Each parameter name and type must match with a property or field on the object. Fields are only considered when 'JsonSerializerOptions.IncludeFields' is enabled. The name match can be case-insensitive.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_ConstructorParameterIncompleteBinding(Type parentType)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize[TReadBufferState,TStream](TReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync[TReadBufferState,TStream](TStream utf8Json, TReadBufferState bufferState, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-01-29 16:46:47.945 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 500 null text/plain; charset=utf-8 90.7309ms
+2026-01-29 16:48:00.717 -03:00 [INF] Application is shutting down...
+2026-01-29 16:49:58.846 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 16:49:58.905 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 16:49:58.905 -03:00 [INF] Hosting environment: Development
+2026-01-29 16:49:58.906 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 16:57:37.514 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 16:57:37.574 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 16:57:37.577 -03:00 [INF] Hosting environment: Development
+2026-01-29 16:57:37.578 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 16:57:52.038 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 16:57:52.086 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 16:57:52.094 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:57:52.102 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 16:57:52.108 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:57:52.115 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 79.0341ms
+2026-01-29 16:57:52.542 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 16:57:52.548 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 16:57:52.818 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 16:57:52.820 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 278.8886ms
+2026-01-29 16:58:07.199 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 16:58:07.207 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 16:58:07.252 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 16:58:07.384 -03:00 [INF] Ordem recebida 1
+2026-01-29 16:58:07.410 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[OrderRequest, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 16:58:07.463 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 203.918ms
+2026-01-29 16:58:07.466 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 16:58:07.468 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 269.2422ms
+2026-01-29 16:59:00.883 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 16:59:00.912 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:59:00.918 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 16:59:00.920 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:59:00.924 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 40.1983ms
+2026-01-29 16:59:01.122 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 16:59:01.195 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 16:59:01.223 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 16:59:01.225 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 102.2148ms
+2026-01-29 16:59:04.360 -03:00 [INF] Application is shutting down...
+2026-01-29 16:59:12.864 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 16:59:12.980 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 16:59:12.983 -03:00 [INF] Hosting environment: Development
+2026-01-29 16:59:12.986 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 16:59:23.998 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 16:59:24.037 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 16:59:24.046 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:59:24.051 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 16:59:24.058 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 16:59:24.069 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 76.3725ms
+2026-01-29 16:59:24.214 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 16:59:24.220 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 16:59:24.436 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 16:59:24.441 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 227.2853ms
+2026-01-29 16:59:32.627 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 16:59:32.635 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 16:59:32.680 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 16:59:32.739 -03:00 [INF] Ordem recebida 1
+2026-01-29 16:59:32.751 -03:00 [INF] Salvando pedido "82c0a97d-0bbc-42c7-90a2-7d4d856eb594"
+2026-01-29 16:59:32.768 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[OrderRequest, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 16:59:32.802 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 111.7474ms
+2026-01-29 16:59:32.808 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 16:59:32.811 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 183.5842ms
+2026-01-29 16:59:51.791 -03:00 [INF] Application is shutting down...
+2026-01-29 16:59:58.931 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 16:59:58.998 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 16:59:59.001 -03:00 [INF] Hosting environment: Development
+2026-01-29 16:59:59.002 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 17:00:04.781 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 17:00:04.877 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 17:00:04.887 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:00:04.894 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 17:00:04.903 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:00:04.909 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 130.5864ms
+2026-01-29 17:00:05.159 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 17:00:05.168 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:00:05.484 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:00:05.488 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 330.2875ms
+2026-01-29 17:00:15.648 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:00:15.656 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:00:15.707 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:00:15.781 -03:00 [INF] Ordem recebida 1
+2026-01-29 17:00:15.791 -03:00 [INF] Salvando pedido "b13cd592-d7f1-49ac-9027-ce7424e12415"
+2026-01-29 17:00:15.803 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 17:00:15.837 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 119.2887ms
+2026-01-29 17:00:15.840 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:00:15.844 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 196.1741ms
+2026-01-29 17:00:44.634 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:00:44.641 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:00:44.643 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:00:44.649 -03:00 [INF] Ordem recebida 1
+2026-01-29 17:00:44.702 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 54.4348ms
+2026-01-29 17:00:44.708 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:00:44.710 -03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Pedido Duplicado
+   at CreateOrderUseCase.ExecuteAsync(OrderRequest OrderRequest) in C:\TesteAmbev\src\OrderSystem.Core\UseCases\CreateOrderUseCase.cs:line 23
+   at OrderController.Create(OrderRequest request) in C:\TesteAmbev\src\OrderSystem.API\Controllers\OrderController.cs:line 23
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-01-29 17:00:44.821 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 500 null text/plain; charset=utf-8 187.0269ms
+2026-01-29 17:00:56.837 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 17:00:56.842 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:00:56.851 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 17:00:56.854 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:00:56.859 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 21.8479ms
+2026-01-29 17:00:57.070 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 17:00:57.074 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:00:57.083 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:00:57.087 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 16.4985ms
+2026-01-29 17:01:03.703 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:01:03.709 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:01:03.712 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:01:03.717 -03:00 [INF] Ordem recebida 1
+2026-01-29 17:01:03.721 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 5.589ms
+2026-01-29 17:01:03.725 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:01:03.730 -03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Pedido Duplicado
+   at CreateOrderUseCase.ExecuteAsync(OrderRequest OrderRequest) in C:\TesteAmbev\src\OrderSystem.Core\UseCases\CreateOrderUseCase.cs:line 23
+   at OrderController.Create(OrderRequest request) in C:\TesteAmbev\src\OrderSystem.API\Controllers\OrderController.cs:line 23
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-01-29 17:01:03.763 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 500 null text/plain; charset=utf-8 59.7486ms
+2026-01-29 17:02:01.574 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:02:01.581 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:02:01.584 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:02:01.652 -03:00 [INF] Ordem recebida 2
+2026-01-29 17:02:01.654 -03:00 [INF] Salvando pedido "bdc6a970-235d-4f1f-9720-063d930ecbe9"
+2026-01-29 17:02:01.656 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 17:02:01.659 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 69.1512ms
+2026-01-29 17:02:01.661 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:02:01.663 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 89.5894ms
+2026-01-29 17:06:52.830 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 17:06:52.887 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 17:06:52.889 -03:00 [INF] Hosting environment: Development
+2026-01-29 17:06:52.890 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 17:07:05.253 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 17:07:05.298 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 17:07:05.307 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:07:05.314 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 17:07:05.324 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:07:05.338 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 86.5377ms
+2026-01-29 17:07:05.960 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 17:07:05.985 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:07:06.375 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:07:06.377 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 417.6457ms
+2026-01-29 17:07:13.561 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:07:13.568 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:07:13.611 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:07:13.675 -03:00 [INF] Ordem recebida 1
+2026-01-29 17:07:13.686 -03:00 [INF] Salvando pedido "e821742b-23c1-437d-88e9-916bb2a20916"
+2026-01-29 17:07:13.708 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 17:07:13.744 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 121.7089ms
+2026-01-29 17:07:13.746 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:07:13.748 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 187.034ms
+2026-01-29 17:07:34.915 -03:00 [INF] Application is shutting down...
+2026-01-29 17:07:41.803 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 17:07:41.864 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 17:07:41.866 -03:00 [INF] Hosting environment: Development
+2026-01-29 17:07:41.867 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 17:08:01.855 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 17:08:01.905 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 17:08:01.915 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:08:01.922 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 17:08:01.943 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:08:02.117 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 265.7017ms
+2026-01-29 17:08:02.488 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 17:08:02.502 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:08:02.833 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:08:02.836 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 348.405ms
+2026-01-29 17:08:07.935 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:08:07.943 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:08:07.996 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:08:08.062 -03:00 [INF] Ordem recebida 1
+2026-01-29 17:08:08.070 -03:00 [INF] Salvando pedido "472c9419-9927-41e5-bfe5-c347deca73eb"
+2026-01-29 17:08:08.086 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 17:08:08.138 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 132.8522ms
+2026-01-29 17:08:08.141 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:08:08.143 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 208.5836ms
+2026-01-29 17:15:47.254 -03:00 [INF] Application is shutting down...
+2026-01-29 17:15:55.122 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 17:15:55.177 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 17:15:55.180 -03:00 [INF] Hosting environment: Development
+2026-01-29 17:15:55.182 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 17:16:07.997 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 17:16:08.055 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 17:16:08.063 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:16:08.069 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 17:16:08.082 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:16:08.130 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 136.3451ms
+2026-01-29 17:16:08.566 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 17:16:08.572 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:16:08.851 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:16:08.854 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 288.3619ms
+2026-01-29 17:16:13.457 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:16:13.464 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:16:13.515 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:16:13.576 -03:00 [INF] Ordem recebida 1
+2026-01-29 17:16:13.586 -03:00 [INF] Salvando pedido "390bd943-1c60-4353-9a35-53d56bb34cc4"
+2026-01-29 17:16:13.603 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 17:16:13.646 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 122.3423ms
+2026-01-29 17:16:13.648 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:16:13.649 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 192.6389ms
+2026-01-29 17:19:50.486 -03:00 [INF] Application is shutting down...
+2026-01-29 17:27:14.948 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 17:27:15.021 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 17:27:15.027 -03:00 [INF] Hosting environment: Development
+2026-01-29 17:27:15.029 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 17:27:23.593 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 17:27:23.649 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 17:27:23.657 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:27:23.662 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 17:27:23.667 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:27:23.673 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 88.2957ms
+2026-01-29 17:27:23.997 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 17:27:24.009 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:27:24.249 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:27:24.253 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 254.8029ms
+2026-01-29 17:27:31.131 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:27:31.140 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:27:31.186 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:27:31.204 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 4.1171ms
+2026-01-29 17:27:31.207 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:27:31.213 -03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'GetOrderUseCase' while attempting to activate 'OrderController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method8(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-01-29 17:27:31.272 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 500 null text/plain; charset=utf-8 140.6956ms
+2026-01-29 17:28:24.649 -03:00 [INF] Application is shutting down...
+2026-01-29 17:28:32.163 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 17:28:32.249 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 17:28:32.265 -03:00 [INF] Hosting environment: Development
+2026-01-29 17:28:32.266 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 17:28:33.349 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 17:28:33.393 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 17:28:33.406 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:28:33.423 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 17:28:33.433 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:28:33.437 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 91.1332ms
+2026-01-29 17:28:33.993 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 17:28:33.999 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:28:34.320 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:28:34.325 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 333.7634ms
+2026-01-29 17:28:39.214 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:28:39.223 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:28:39.265 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:28:39.328 -03:00 [INF] Ordem recebida 1
+2026-01-29 17:28:39.340 -03:00 [INF] Salvando pedido "6bf4bb72-1e5e-45ec-8f18-4748b8b412a5"
+2026-01-29 17:28:39.353 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 17:28:39.383 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 106.0484ms
+2026-01-29 17:28:39.385 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:28:39.388 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 174.2357ms
+2026-01-29 17:29:05.566 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders/6bf4bb72-1e5e-45ec-8f18-4748b8b412a5 - null null
+2026-01-29 17:29:05.572 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 17:29:05.637 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.Guid) on controller OrderController (OrderSystem.API).
+2026-01-29 17:29:05.645 -03:00 [INF] Resgatando ordem "6bf4bb72-1e5e-45ec-8f18-4748b8b412a5"
+2026-01-29 17:29:05.648 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType1`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 17:29:05.676 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 34.5546ms
+2026-01-29 17:29:05.679 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 17:29:05.681 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders/6bf4bb72-1e5e-45ec-8f18-4748b8b412a5 - 201 null application/json; charset=utf-8 114.6159ms
+2026-01-29 17:29:14.261 -03:00 [INF] Application is shutting down...
+2026-01-29 17:35:55.408 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 17:35:55.459 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 17:35:55.461 -03:00 [INF] Hosting environment: Development
+2026-01-29 17:35:55.463 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 17:36:03.236 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 17:36:03.282 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 17:36:03.288 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:36:03.295 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 17:36:03.300 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 17:36:03.308 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 77.1688ms
+2026-01-29 17:36:03.768 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 17:36:03.777 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:36:04.069 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 17:36:04.072 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 303.8403ms
+2026-01-29 17:36:08.709 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:36:08.716 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:36:08.760 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:36:08.834 -03:00 [INF] Ordem recebida 1
+2026-01-29 17:36:08.845 -03:00 [INF] Salvando pedido "3f06c906-a214-4786-ba4f-50d3b9a80be6"
+2026-01-29 17:36:08.855 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 17:36:08.879 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 110.2607ms
+2026-01-29 17:36:08.881 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:36:08.884 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 174.5658ms
+2026-01-29 17:36:31.233 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders/3f06c906-a214-4786-ba4f-50d3b9a80be6 - null null
+2026-01-29 17:36:31.240 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 17:36:31.248 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.Guid) on controller OrderController (OrderSystem.API).
+2026-01-29 17:36:31.258 -03:00 [INF] Resgatando ordem "3f06c906-a214-4786-ba4f-50d3b9a80be6"
+2026-01-29 17:36:31.264 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType1`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 17:36:31.288 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 33.8268ms
+2026-01-29 17:36:31.290 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 17:36:31.293 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders/3f06c906-a214-4786-ba4f-50d3b9a80be6 - 201 null application/json; charset=utf-8 59.4697ms
+2026-01-29 17:36:40.753 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 17:36:40.757 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:36:40.759 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 17:36:40.769 -03:00 [INF] Ordem recebida 2
+2026-01-29 17:36:40.772 -03:00 [INF] Salvando pedido "68bc7b24-c1e6-40b1-bda5-76fb51ded21b"
+2026-01-29 17:36:40.774 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 17:36:40.778 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 12.864ms
+2026-01-29 17:36:40.780 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 17:36:40.783 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 30.6191ms
+2026-01-29 17:36:46.872 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 17:36:46.878 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 17:36:46.886 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller OrderController (OrderSystem.API).
+2026-01-29 17:36:46.892 -03:00 [INF] Resgatando ordens
+2026-01-29 17:36:46.896 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType2`1[[System.Collections.Generic.IEnumerable`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 17:36:46.903 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 12.5563ms
+2026-01-29 17:36:46.905 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 17:36:46.909 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 37.232ms
+2026-01-29 22:58:23.054 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 22:58:23.193 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 22:58:23.202 -03:00 [INF] Hosting environment: Development
+2026-01-29 22:58:23.208 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 22:58:29.769 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 22:58:29.930 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 22:58:29.977 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 22:58:30.019 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 22:58:30.066 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 22:58:30.101 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 339.1597ms
+2026-01-29 22:58:31.441 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 22:58:31.450 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 22:58:31.900 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 22:58:31.905 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 463.6086ms
+2026-01-29 22:58:50.117 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 128
+2026-01-29 22:58:50.141 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 22:58:50.420 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 22:58:50.591 -03:00 [INF] Ordem recebida 1
+2026-01-29 22:58:50.606 -03:00 [INF] Salvando pedido "e8608476-088e-4b08-b2f9-7cbe932530fa"
+2026-01-29 22:58:50.620 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 22:58:50.665 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 227.3015ms
+2026-01-29 22:58:50.669 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 22:58:50.672 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 555.0188ms
+2026-01-29 22:59:11.940 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders/e8608476-088e-4b08-b2f9-7cbe932530fa - null null
+2026-01-29 22:59:11.969 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 22:59:12.058 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.Guid) on controller OrderController (OrderSystem.API).
+2026-01-29 22:59:12.086 -03:00 [INF] Resgatando ordem "e8608476-088e-4b08-b2f9-7cbe932530fa"
+2026-01-29 22:59:12.094 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType1`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 22:59:12.178 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 103.8492ms
+2026-01-29 22:59:12.184 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 22:59:12.189 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders/e8608476-088e-4b08-b2f9-7cbe932530fa - 201 null application/json; charset=utf-8 248.6871ms
+2026-01-29 23:04:37.002 -03:00 [INF] Application is shutting down...
+2026-01-29 23:04:46.106 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 23:04:46.157 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 23:04:46.160 -03:00 [INF] Hosting environment: Development
+2026-01-29 23:04:46.162 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 23:04:53.157 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 23:04:53.205 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 23:04:53.212 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:04:53.219 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 23:04:53.226 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:04:53.230 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 76.2739ms
+2026-01-29 23:04:53.708 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 23:04:53.715 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:04:53.971 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:04:53.977 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 269.7124ms
+2026-01-29 23:05:01.966 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 23:05:02.017 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:05:02.138 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 23:05:02.233 -03:00 [INF] Ordem recebida 1
+2026-01-29 23:05:02.247 -03:00 [INF] Salvando pedido "a7a3f904-4542-40b7-939b-9d6bf12b0742"
+2026-01-29 23:05:02.265 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 23:05:02.301 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 150.0693ms
+2026-01-29 23:05:02.304 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:05:02.308 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 342.4367ms
+2026-01-29 23:05:27.514 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders/a7a3f904-4542-40b7-939b-9d6bf12b0742 - null null
+2026-01-29 23:05:27.531 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:05:27.557 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(System.Guid) on controller OrderController (OrderSystem.API).
+2026-01-29 23:05:27.580 -03:00 [INF] Resgatando ordem "a7a3f904-4542-40b7-939b-9d6bf12b0742"
+2026-01-29 23:05:27.588 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType1`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 23:05:27.664 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 92.4003ms
+2026-01-29 23:05:27.672 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:05:27.680 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders/a7a3f904-4542-40b7-939b-9d6bf12b0742 - 201 null application/json; charset=utf-8 165.7128ms
+2026-01-29 23:05:48.398 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 23:05:48.414 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:05:48.448 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller OrderController (OrderSystem.API).
+2026-01-29 23:05:48.476 -03:00 [INF] Resgatando ordens
+2026-01-29 23:05:48.486 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType2`1[[System.Collections.Generic.IEnumerable`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 23:05:48.504 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 38.9195ms
+2026-01-29 23:05:48.514 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:05:48.531 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 133.0516ms
+2026-01-29 23:09:20.755 -03:00 [INF] Application is shutting down...
+2026-01-29 23:09:30.867 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 23:09:30.935 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 23:09:30.938 -03:00 [INF] Hosting environment: Development
+2026-01-29 23:09:30.941 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 23:09:51.739 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 23:09:51.804 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 23:09:51.815 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:09:51.824 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 23:09:51.834 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:09:51.842 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 108.5638ms
+2026-01-29 23:09:52.234 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 23:09:52.241 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:09:52.661 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:09:52.665 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 430.783ms
+2026-01-29 23:09:57.122 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 23:09:57.237 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:09:57.303 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 23:09:57.411 -03:00 [INF] Ordem recebida 1
+2026-01-29 23:09:57.425 -03:00 [INF] Salvando pedido "f2956eac-7411-4fb1-8738-f3d2a18eca4b"
+2026-01-29 23:09:57.440 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[CreateOrderResult, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 23:09:57.497 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 177.6589ms
+2026-01-29 23:09:57.500 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:09:57.504 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 381.6791ms
+2026-01-29 23:12:25.194 -03:00 [INF] Application is shutting down...
+2026-01-29 23:19:00.097 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 23:19:00.146 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 23:19:00.148 -03:00 [INF] Hosting environment: Development
+2026-01-29 23:19:00.151 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 23:19:07.225 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 23:19:07.275 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 23:19:07.282 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:19:07.290 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 23:19:07.296 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:19:07.304 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 84.6826ms
+2026-01-29 23:19:07.747 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 23:19:07.753 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:19:07.963 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:19:07.970 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 223.4382ms
+2026-01-29 23:19:15.589 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 23:19:15.612 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:19:15.760 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 23:19:15.906 -03:00 [INF] Ordem recebida 1
+2026-01-29 23:19:15.919 -03:00 [INF] Salvando pedido 1
+2026-01-29 23:19:15.933 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[CreateOrderResult, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 23:19:15.989 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 207.6783ms
+2026-01-29 23:19:15.991 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:19:15.994 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 405.4671ms
+2026-01-29 23:20:35.692 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 23:20:35.706 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:20:35.731 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller OrderController (OrderSystem.API).
+2026-01-29 23:20:35.753 -03:00 [INF] Resgatando ordens
+2026-01-29 23:20:35.761 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType2`1[[System.Collections.Generic.IEnumerable`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 23:20:35.800 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 51.8337ms
+2026-01-29 23:20:35.810 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:20:35.818 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 125.4421ms
+2026-01-29 23:21:17.402 -03:00 [INF] Application is shutting down...
+2026-01-29 23:21:24.389 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 23:21:24.440 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 23:21:24.443 -03:00 [INF] Hosting environment: Development
+2026-01-29 23:21:24.444 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 23:21:24.954 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 23:21:25.005 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 23:21:25.018 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:21:25.034 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 23:21:25.045 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:21:25.057 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 110.7588ms
+2026-01-29 23:21:25.487 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 23:21:25.493 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:21:25.841 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:21:25.844 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 359.7359ms
+2026-01-29 23:21:30.590 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 23:21:30.597 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:21:30.680 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 23:21:30.738 -03:00 [INF] Ordem recebida 1
+2026-01-29 23:21:30.747 -03:00 [INF] Salvando pedido 1
+2026-01-29 23:21:30.755 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[CreateOrderResult, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 23:21:30.797 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 106.2656ms
+2026-01-29 23:21:30.799 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:21:30.801 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 211.0387ms
+2026-01-29 23:21:39.736 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 23:21:39.753 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:21:39.782 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller OrderController (OrderSystem.API).
+2026-01-29 23:21:39.803 -03:00 [INF] Resgatando ordens
+2026-01-29 23:21:39.810 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType1`1[[System.Collections.Generic.IEnumerable`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 23:21:39.851 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 57.301ms
+2026-01-29 23:21:39.863 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:21:39.868 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 131.217ms
+2026-01-29 23:21:52.742 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders/1 - null null
+2026-01-29 23:21:52.750 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:21:52.763 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(Int32) on controller OrderController (OrderSystem.API).
+2026-01-29 23:21:52.779 -03:00 [INF] Resgatando ordem 1
+2026-01-29 23:21:52.782 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 23:21:52.791 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 19.6342ms
+2026-01-29 23:21:52.795 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:21:52.798 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders/1 - 201 null application/json; charset=utf-8 56.9776ms
+2026-01-29 23:22:02.247 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 23:22:02.262 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:22:02.267 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 23:22:02.295 -03:00 [INF] Ordem recebida 1
+2026-01-29 23:22:02.309 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 19.4475ms
+2026-01-29 23:22:02.379 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:22:02.394 -03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Pedido Duplicado
+   at CreateOrderUseCase.ExecuteAsync(OrderRequest OrderRequest) in C:\TesteAmbev\src\OrderSystem.Core\UseCases\CreateOrderUseCase.cs:line 23
+   at OrderController.Create(OrderRequest request) in C:\TesteAmbev\src\OrderSystem.API\Controllers\OrderController.cs:line 30
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-01-29 23:22:02.582 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 500 null text/plain; charset=utf-8 335.0809ms
+2026-01-29 23:22:32.047 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 23:22:32.064 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:22:32.081 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 23:22:32.104 -03:00 [INF] Ordem recebida 2
+2026-01-29 23:22:32.109 -03:00 [INF] Salvando pedido 2
+2026-01-29 23:22:32.112 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[CreateOrderResult, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 23:22:32.122 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 20.5087ms
+2026-01-29 23:22:32.126 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:22:32.131 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 83.2703ms
+2026-01-29 23:22:41.094 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 23:22:41.110 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:22:41.124 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller OrderController (OrderSystem.API).
+2026-01-29 23:22:41.145 -03:00 [INF] Resgatando ordens
+2026-01-29 23:22:41.154 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType1`1[[System.Collections.Generic.IEnumerable`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 23:22:41.167 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 23.2717ms
+2026-01-29 23:22:41.175 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:22:41.187 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 93.3941ms
+2026-01-29 23:23:14.357 -03:00 [INF] Application is shutting down...
+2026-01-29 23:23:36.981 -03:00 [INF] Now listening on: http://localhost:5126
+2026-01-29 23:23:37.042 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-29 23:23:37.046 -03:00 [INF] Hosting environment: Development
+2026-01-29 23:23:37.047 -03:00 [INF] Content root path: C:\TesteAmbev\src\OrderSystem.API
+2026-01-29 23:23:42.980 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/scalar/v1 - null null
+2026-01-29 23:23:43.024 -03:00 [WRN] Failed to determine the https port for redirect.
+2026-01-29 23:23:43.030 -03:00 [INF] Executing endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:23:43.035 -03:00 [INF] Write content with HTTP Response ContentType of text/html
+2026-01-29 23:23:43.039 -03:00 [INF] Executed endpoint 'HTTP: GET /scalar/{documentName}'
+2026-01-29 23:23:43.045 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/scalar/v1 - 200 765 text/html 67.6311ms
+2026-01-29 23:23:43.490 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/openapi/v1.json - null null
+2026-01-29 23:23:43.503 -03:00 [INF] Executing endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:23:43.735 -03:00 [INF] Executed endpoint 'HTTP: GET /openapi/{documentName}.json'
+2026-01-29 23:23:43.739 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/openapi/v1.json - 200 null application/json;charset=utf-8 248.482ms
+2026-01-29 23:23:49.031 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5126/api/orders - application/json 127
+2026-01-29 23:23:49.054 -03:00 [INF] Executing endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:23:49.172 -03:00 [INF] Route matched with {action = "Create", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(OrderRequest) on controller OrderController (OrderSystem.API).
+2026-01-29 23:23:49.262 -03:00 [INF] Ordem recebida 1
+2026-01-29 23:23:49.275 -03:00 [INF] Salvando pedido 1
+2026-01-29 23:23:49.287 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType0`1[[CreateOrderResult, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-01-29 23:23:49.346 -03:00 [INF] Executed action OrderController.Create (OrderSystem.API) in 162.6359ms
+2026-01-29 23:23:49.349 -03:00 [INF] Executed endpoint 'OrderController.Create (OrderSystem.API)'
+2026-01-29 23:23:49.351 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 319.5041ms
+2026-01-29 23:23:58.212 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5126/api/orders - null null
+2026-01-29 23:23:58.228 -03:00 [INF] Executing endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:23:58.254 -03:00 [INF] Route matched with {action = "Get", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller OrderController (OrderSystem.API).
+2026-01-29 23:23:58.276 -03:00 [INF] Resgatando ordens
+2026-01-29 23:23:58.284 -03:00 [INF] Executing CreatedResult, writing value of type '<>f__AnonymousType1`1[[System.Collections.Generic.IEnumerable`1[[Order, OrderSystem.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-29 23:23:58.328 -03:00 [INF] Executed action OrderController.Get (OrderSystem.API) in 61.5084ms
+2026-01-29 23:23:58.333 -03:00 [INF] Executed endpoint 'OrderController.Get (OrderSystem.API)'
+2026-01-29 23:23:58.336 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5126/api/orders - 201 null application/json; charset=utf-8 123.7178ms
+2026-01-29 23:24:06.642 -03:00 [INF] Application is shutting down...
