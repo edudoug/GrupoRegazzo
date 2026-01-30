@@ -1,0 +1,15 @@
+C:\TesteAmbev\src\OrderSystem.Infrastructure\bin\Debug\net9.0\OrderSystem.Infrastructure.deps.json
+C:\TesteAmbev\src\OrderSystem.Infrastructure\bin\Debug\net9.0\OrderSystem.Infrastructure.dll
+C:\TesteAmbev\src\OrderSystem.Infrastructure\bin\Debug\net9.0\OrderSystem.Infrastructure.pdb
+C:\TesteAmbev\src\OrderSystem.Infrastructure\bin\Debug\net9.0\OrderSystem.Core.dll
+C:\TesteAmbev\src\OrderSystem.Infrastructure\bin\Debug\net9.0\OrderSystem.Core.pdb
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\OrderSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\OrderSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\OrderSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\OrderSystem.Infrastructure.AssemblyInfo.cs
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\OrderSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\OrderSys.C15C860F.Up2Date
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\OrderSystem.Infrastructure.dll
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\refint\OrderSystem.Infrastructure.dll
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\OrderSystem.Infrastructure.pdb
+C:\TesteAmbev\src\OrderSystem.Infrastructure\obj\Debug\net9.0\ref\OrderSystem.Infrastructure.dll

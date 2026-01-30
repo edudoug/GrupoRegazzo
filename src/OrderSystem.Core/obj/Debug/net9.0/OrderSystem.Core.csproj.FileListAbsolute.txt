@@ -1,0 +1,11 @@
+C:\TesteAmbev\src\OrderSystem.Core\bin\Debug\net9.0\OrderSystem.Core.deps.json
+C:\TesteAmbev\src\OrderSystem.Core\bin\Debug\net9.0\OrderSystem.Core.dll
+C:\TesteAmbev\src\OrderSystem.Core\bin\Debug\net9.0\OrderSystem.Core.pdb
+C:\TesteAmbev\src\OrderSystem.Core\obj\Debug\net9.0\OrderSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\TesteAmbev\src\OrderSystem.Core\obj\Debug\net9.0\OrderSystem.Core.AssemblyInfoInputs.cache
+C:\TesteAmbev\src\OrderSystem.Core\obj\Debug\net9.0\OrderSystem.Core.AssemblyInfo.cs
+C:\TesteAmbev\src\OrderSystem.Core\obj\Debug\net9.0\OrderSystem.Core.csproj.CoreCompileInputs.cache
+C:\TesteAmbev\src\OrderSystem.Core\obj\Debug\net9.0\OrderSystem.Core.dll
+C:\TesteAmbev\src\OrderSystem.Core\obj\Debug\net9.0\refint\OrderSystem.Core.dll
+C:\TesteAmbev\src\OrderSystem.Core\obj\Debug\net9.0\OrderSystem.Core.pdb
+C:\TesteAmbev\src\OrderSystem.Core\obj\Debug\net9.0\ref\OrderSystem.Core.dll
